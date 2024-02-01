@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Onkar Yelchelwar</h1>
+<h1 align="center">Hi 👋, I'm Onkar Yelchalwar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 📫 How to reach me **omyelchalwar28@gmail.com**
